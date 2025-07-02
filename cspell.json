@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Pasien",
+    "pasien",
+    "shadcn",
+    "zustand",
+    "vite",
+    "tailwindcss",
+    "rawat",
+    "inap",
+    "diagnosa",
+    "dokter"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "dist/**",
+    "build/**",
+    "*.min.*"
+  ]
+}
